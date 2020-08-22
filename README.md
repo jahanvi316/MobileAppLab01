@@ -1,5 +1,5 @@
 # MobileAppLab01
-Mobile App Development Lab 01
+## Mobile App Development Lab 01
 
 Pre-Requirements:
 - Have Android Studio downloaded and set up
