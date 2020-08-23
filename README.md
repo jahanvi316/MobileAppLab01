@@ -5,7 +5,7 @@
 - Have Android Studio downloaded and set up
 - Have Nexus 5 API 26 emulator downloaded and set up
 
-#### Steps To Reproduce:
+### Steps To Reproduce:
 1. Download .zip file
 2. Extract .zip file
 3. Open project in Android Studio
